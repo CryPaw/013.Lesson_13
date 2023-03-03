@@ -80,7 +80,7 @@ for (let i = 1; i <= n; i++) {
 }
 s = s / n;
 console.log('Циклом:', s);
-console.log('Формулой:', (n + 1) / 2);
+console.log('Формулою:', (n + 1) / 2);
 
 
 
@@ -142,7 +142,7 @@ document.write(`Сума парних дільників: ${summ} <br /><br />`)
 
 //Надрукувати повну таблицю множення від 1 до 10. 
 
-document.write("<h1>Таблицю множення</h1>"); 
+document.write("<h1>Таблиця множення</h1>"); 
  
 for (let j = 1; j <= 10; j++){  
 document.write("<div style='float: left; width: 70px;'>"); 
